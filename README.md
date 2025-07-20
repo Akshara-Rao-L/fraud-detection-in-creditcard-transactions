@@ -1,2 +1,1 @@
-fraud-detection-in-creditcard-transactions
 Fraud Detection System is a machine learning-powered web application that identifies suspicious financial transactions in real-time. Using a Random Forest classifier trained on transaction data, the system analyzes 19 critical features including transaction patterns, device information, and historical behavior to detect fraud with 89% accuracy.
